@@ -14,7 +14,7 @@
 ## 🛠 기술 스택
 
 ### Language & Framework
-- Python 3.x
+- Python 3.13
 - Tkinter (GUI 프레임워크)
 - Threading (멀티스레드 처리)
 
